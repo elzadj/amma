@@ -1,0 +1,14 @@
+{
+	"temperature": "55",
+	"pressure": "100500",
+	"pressuremmHg": "780",
+	"altitude": 430,
+	"realaltitude": 450,
+	"gas": "1000",
+	"smoke": "500",
+	"flame": "200",
+	"temperature2": "55.6",
+	"humidity": "25",
+	"light": "10",
+	"noise": "1000"
+}
